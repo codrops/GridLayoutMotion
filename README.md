@@ -4,9 +4,9 @@ A retro-style grid layout with a playful motion hover effect on the grid items. 
 
 ![Grid Layout Motion](https://tympanus.net/codrops/wp-content/uploads/2018/05/GridLayoutMotion_featured.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+[Article on Codrops](https://tympanus.net/codrops/?p=34922)
 
-[Demo](http://tympanus.net/Development/.../)
+[Demo](http://tympanus.net/Development/GridLayoutMotion/)
 
 ## Credits
 
